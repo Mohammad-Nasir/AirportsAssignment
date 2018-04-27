@@ -1,12 +1,14 @@
-﻿var CountriesViewModel = function (data) {
+﻿let CountriesViewModel = function (data) {
     let self = this;
 
     self.isoCode = data.IsoCode;
     self.name = data.Name;
     self.region = data.Region;
+
+    return self;
 }
 
-var AirportsViewModel = function (data, id) {
+let AirportsViewModel = function (data, id) {
     let self = this;
 
     self.id = id;
@@ -32,13 +34,11 @@ function MainViewModel() {
 
     self.countries = ko.observableArray();
     self.filterCountry = ko.observable("");
-
     self.sourceAirport = ko.observable("");
     self.destinationAirport = ko.observable("");
 
     self.distance = ko.observable("");
     self.milesDifferential = 0.00062137119223733;
-
     self.recordCount = 5;
 
     self.filteredData = ko.computed(function () {
@@ -148,7 +148,7 @@ function MainViewModel() {
     }
 
     self.calculateDistance = function () {
-        var distanceInput = { SourceAirport: self.sourceAirport(), DestinationAirport: self.destinationAirport() };
+        let distanceInput = { SourceAirport: self.sourceAirport(), DestinationAirport: self.destinationAirport() };
 
         self.getDistance(distanceInput);
     }
@@ -158,8 +158,8 @@ function MainViewModel() {
 }
 
 function initViewModel() {
-    var vm = new MainViewModel();
-    var container = $("#airportsContainer").get(0);
+    let vm = new MainViewModel();
+    let container = $("#airportsContainer").get(0);
     ko.applyBindings(vm, container);
 }
 

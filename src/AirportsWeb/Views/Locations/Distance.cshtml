@@ -1,0 +1,26 @@
+﻿<link href="~/Contents/Site.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/knockout-3.4.2.js"></script>
+<script src="~/Scripts/Locations.js"></script>
+<h2>Distance</h2>
+
+<a href="/">Airports List</a>
+<div id="airportsContainer">
+    <table>
+        <tr>
+            <td>Source:</td>
+            <td><select id="sourceList" data-bind="options: allAirports, optionsText: 'name', optionsValue: 'iata', value: sourceAirport, optionsCaption: 'Select source countrty'"></select></td>
+        </tr>
+        <tr>
+            <td>Destination:</td>
+            <td><select id="destinationList" data-bind="options: allAirports, optionsText: 'name', optionsValue: 'iata', value: destinationAirport, optionsCaption: 'Select destination country'"></select></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="right"><button data-bind="click: calculateDistance">Calculate Distance</button></td>
+        </tr>
+        <tr>
+            <td>Distance Between Source and Destination is: </td> 
+            <td><label data-bind="text: distance"></label></td>
+        </tr>
+    </table>
+</div>

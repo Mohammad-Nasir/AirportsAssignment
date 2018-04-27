@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportsWeb", "AirportsWeb\AirportsWeb.csproj", "{500BA114-EFBC-4351-BC36-05D55A6A931A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportsTests", "AirportsTests\AirportsTests.csproj", "{2F62AE05-DC35-4E81-9416-AF0C7479E02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportsCore", "AirportsCore\AirportsCore.csproj", "{F47CD9FD-550F-4A0B-B6F4-EB93C6BE53EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{500BA114-EFBC-4351-BC36-05D55A6A931A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500BA114-EFBC-4351-BC36-05D55A6A931A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500BA114-EFBC-4351-BC36-05D55A6A931A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500BA114-EFBC-4351-BC36-05D55A6A931A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F62AE05-DC35-4E81-9416-AF0C7479E02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F62AE05-DC35-4E81-9416-AF0C7479E02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F62AE05-DC35-4E81-9416-AF0C7479E02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F62AE05-DC35-4E81-9416-AF0C7479E02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47CD9FD-550F-4A0B-B6F4-EB93C6BE53EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47CD9FD-550F-4A0B-B6F4-EB93C6BE53EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47CD9FD-550F-4A0B-B6F4-EB93C6BE53EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47CD9FD-550F-4A0B-B6F4-EB93C6BE53EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

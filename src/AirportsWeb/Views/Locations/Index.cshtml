@@ -1,0 +1,62 @@
+﻿
+<link href="~/Contents/Site.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/knockout-3.4.2.js"></script>
+<script src="~/Scripts/Locations.js"></script>
+<h2>Airports</h2>
+
+
+<a href="/Locations/Distance">Calculate Distance</a>
+<div id="airportsContainer">
+    <table class="tableContainer">
+        <tr>
+            <td>Filter by Country:</td>
+            <td><select data-bind="options: countries, optionsText: 'name', optionsValue: 'isoCode', value: filterCountry, optionsCaption: 'Select a country to filter'"></select></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                ID
+                            </th>
+                            <th>
+                                IATA
+                            </th>
+                            <th>
+                                ISO
+                            </th>
+                            <th class="namecol">
+                                NAME
+                            </th>
+                            <th>
+                                CONTINENT
+                            </th>
+                            <th>
+                                TYPE
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody data-bind="foreach: paginated()">
+                        <tr>
+                            <td data-bind="text: id"></td>
+                            <td data-bind="text: iata"></td>
+                            <td data-bind="text: iso"></td>
+                            <td data-bind="text: name"></td>
+                            <td data-bind="text: continent"></td>
+                            <td data-bind="text: type"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr align="right">
+            <td colspan="2">
+                <button data-bind="click: previous, visible: hasPrevious">Previous</button><button data-bind="click: next, visible: hasNext">Next</button>
+            </td>
+        </tr>
+    </table>
+
+
+</div>

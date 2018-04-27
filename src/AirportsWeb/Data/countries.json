@@ -1,0 +1,1247 @@
+[
+  {
+    "IsoCode": "AF",
+    "Name": "Afghanistan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "AX",
+    "Name": "Åland Islands",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "AL",
+    "Name": "Albania",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "DZ",
+    "Name": "Algeria",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "AS",
+    "Name": "American Samoa",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "AD",
+    "Name": "Andorra",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "AO",
+    "Name": "Angola",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "AI",
+    "Name": "Anguilla",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "AQ",
+    "Name": "Antarctica",
+    "Region": ""
+  },
+  {
+    "IsoCode": "AG",
+    "Name": "Antigua and Barbuda",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "AR",
+    "Name": "Argentina",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "AM",
+    "Name": "Armenia",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "AW",
+    "Name": "Aruba",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "AU",
+    "Name": "Australia",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "AT",
+    "Name": "Austria",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "AZ",
+    "Name": "Azerbaijan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "BS",
+    "Name": "Bahamas",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "BH",
+    "Name": "Bahrain",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "BD",
+    "Name": "Bangladesh",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "BB",
+    "Name": "Barbados",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "BY",
+    "Name": "Belarus",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "BE",
+    "Name": "Belgium",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "BZ",
+    "Name": "Belize",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "BJ",
+    "Name": "Benin",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "BM",
+    "Name": "Bermuda",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "BT",
+    "Name": "Bhutan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "BO",
+    "Name": "Bolivia (Plurinational State of)",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "BQ",
+    "Name": "Bonaire, Sint Eustatius and Saba",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "BA",
+    "Name": "Bosnia and Herzegovina",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "BW",
+    "Name": "Botswana",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "BV",
+    "Name": "Bouvet Island",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "BR",
+    "Name": "Brazil",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "IO",
+    "Name": "British Indian Ocean Territory",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "BN",
+    "Name": "Brunei Darussalam",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "BG",
+    "Name": "Bulgaria",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "BF",
+    "Name": "Burkina Faso",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "BI",
+    "Name": "Burundi",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "CV",
+    "Name": "Cabo Verde",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "KH",
+    "Name": "Cambodia",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "CM",
+    "Name": "Cameroon",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "CA",
+    "Name": "Canada",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "KY",
+    "Name": "Cayman Islands",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "CF",
+    "Name": "Central African Republic",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "TD",
+    "Name": "Chad",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "CL",
+    "Name": "Chile",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "CN",
+    "Name": "China",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "CX",
+    "Name": "Christmas Island",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "CC",
+    "Name": "Cocos (Keeling) Islands",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "CO",
+    "Name": "Colombia",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "KM",
+    "Name": "Comoros",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "CG",
+    "Name": "Congo",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "CD",
+    "Name": "Congo (Democratic Republic of the)",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "CK",
+    "Name": "Cook Islands",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "CR",
+    "Name": "Costa Rica",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "CI",
+    "Name": "Côte d'Ivoire",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "HR",
+    "Name": "Croatia",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "CU",
+    "Name": "Cuba",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "CW",
+    "Name": "Curaçao",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "CY",
+    "Name": "Cyprus",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "CZ",
+    "Name": "Czechia",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "DK",
+    "Name": "Denmark",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "DJ",
+    "Name": "Djibouti",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "DM",
+    "Name": "Dominica",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "DO",
+    "Name": "Dominican Republic",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "EC",
+    "Name": "Ecuador",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "EG",
+    "Name": "Egypt",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "SV",
+    "Name": "El Salvador",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "GQ",
+    "Name": "Equatorial Guinea",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "ER",
+    "Name": "Eritrea",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "EE",
+    "Name": "Estonia",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "ET",
+    "Name": "Ethiopia",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "FK",
+    "Name": "Falkland Islands (Malvinas)",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "FO",
+    "Name": "Faroe Islands",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "FJ",
+    "Name": "Fiji",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "FI",
+    "Name": "Finland",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "FR",
+    "Name": "France",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "GF",
+    "Name": "French Guiana",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "PF",
+    "Name": "French Polynesia",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "TF",
+    "Name": "French Southern Territories",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "GA",
+    "Name": "Gabon",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "GM",
+    "Name": "Gambia",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "GE",
+    "Name": "Georgia",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "DE",
+    "Name": "Germany",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "GH",
+    "Name": "Ghana",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "GI",
+    "Name": "Gibraltar",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "GR",
+    "Name": "Greece",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "GL",
+    "Name": "Greenland",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "GD",
+    "Name": "Grenada",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "GP",
+    "Name": "Guadeloupe",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "GU",
+    "Name": "Guam",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "GT",
+    "Name": "Guatemala",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "GG",
+    "Name": "Guernsey",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "GN",
+    "Name": "Guinea",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "GW",
+    "Name": "Guinea-Bissau",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "GY",
+    "Name": "Guyana",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "HT",
+    "Name": "Haiti",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "HM",
+    "Name": "Heard Island and McDonald Islands",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "VA",
+    "Name": "Holy See",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "HN",
+    "Name": "Honduras",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "HK",
+    "Name": "Hong Kong",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "HU",
+    "Name": "Hungary",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "IS",
+    "Name": "Iceland",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "IN",
+    "Name": "India",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "ID",
+    "Name": "Indonesia",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "IR",
+    "Name": "Iran (Islamic Republic of)",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "IQ",
+    "Name": "Iraq",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "IE",
+    "Name": "Ireland",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "IM",
+    "Name": "Isle of Man",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "IL",
+    "Name": "Israel",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "IT",
+    "Name": "Italy",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "JM",
+    "Name": "Jamaica",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "JP",
+    "Name": "Japan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "JE",
+    "Name": "Jersey",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "JO",
+    "Name": "Jordan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "KZ",
+    "Name": "Kazakhstan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "KE",
+    "Name": "Kenya",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "KI",
+    "Name": "Kiribati",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "KP",
+    "Name": "Korea (Democratic People's Republic of)",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "KR",
+    "Name": "Korea (Republic of)",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "KW",
+    "Name": "Kuwait",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "KG",
+    "Name": "Kyrgyzstan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "LA",
+    "Name": "Lao People's Democratic Republic",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "LV",
+    "Name": "Latvia",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "LB",
+    "Name": "Lebanon",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "LS",
+    "Name": "Lesotho",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "LR",
+    "Name": "Liberia",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "LY",
+    "Name": "Libya",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "LI",
+    "Name": "Liechtenstein",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "LT",
+    "Name": "Lithuania",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "LU",
+    "Name": "Luxembourg",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "MO",
+    "Name": "Macao",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "MK",
+    "Name": "Macedonia (the former Yugoslav Republic of)",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "MG",
+    "Name": "Madagascar",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "MW",
+    "Name": "Malawi",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "MY",
+    "Name": "Malaysia",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "MV",
+    "Name": "Maldives",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "ML",
+    "Name": "Mali",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "MT",
+    "Name": "Malta",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "MH",
+    "Name": "Marshall Islands",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "MQ",
+    "Name": "Martinique",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "MR",
+    "Name": "Mauritania",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "MU",
+    "Name": "Mauritius",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "YT",
+    "Name": "Mayotte",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "MX",
+    "Name": "Mexico",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "FM",
+    "Name": "Micronesia (Federated States of)",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "MD",
+    "Name": "Moldova (Republic of)",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "MC",
+    "Name": "Monaco",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "MN",
+    "Name": "Mongolia",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "ME",
+    "Name": "Montenegro",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "MS",
+    "Name": "Montserrat",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "MA",
+    "Name": "Morocco",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "MZ",
+    "Name": "Mozambique",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "MM",
+    "Name": "Myanmar",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "NA",
+    "Name": "Namibia",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "NR",
+    "Name": "Nauru",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "NP",
+    "Name": "Nepal",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "NL",
+    "Name": "Netherlands",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "NC",
+    "Name": "New Caledonia",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "NZ",
+    "Name": "New Zealand",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "NI",
+    "Name": "Nicaragua",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "NE",
+    "Name": "Niger",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "NG",
+    "Name": "Nigeria",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "NU",
+    "Name": "Niue",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "NF",
+    "Name": "Norfolk Island",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "MP",
+    "Name": "Northern Mariana Islands",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "NO",
+    "Name": "Norway",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "OM",
+    "Name": "Oman",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "PK",
+    "Name": "Pakistan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "PW",
+    "Name": "Palau",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "PS",
+    "Name": "Palestine, State of",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "PA",
+    "Name": "Panama",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "PG",
+    "Name": "Papua New Guinea",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "PY",
+    "Name": "Paraguay",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "PE",
+    "Name": "Peru",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "PH",
+    "Name": "Philippines",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "PN",
+    "Name": "Pitcairn",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "PL",
+    "Name": "Poland",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "PT",
+    "Name": "Portugal",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "PR",
+    "Name": "Puerto Rico",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "QA",
+    "Name": "Qatar",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "RE",
+    "Name": "Réunion",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "RO",
+    "Name": "Romania",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "RU",
+    "Name": "Russian Federation",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "RW",
+    "Name": "Rwanda",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "BL",
+    "Name": "Saint Barthélemy",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "SH",
+    "Name": "Saint Helena, Ascension and Tristan da Cunha",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "KN",
+    "Name": "Saint Kitts and Nevis",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "LC",
+    "Name": "Saint Lucia",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "MF",
+    "Name": "Saint Martin (French part)",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "PM",
+    "Name": "Saint Pierre and Miquelon",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "VC",
+    "Name": "Saint Vincent and the Grenadines",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "WS",
+    "Name": "Samoa",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "SM",
+    "Name": "San Marino",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "ST",
+    "Name": "Sao Tome and Principe",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "SA",
+    "Name": "Saudi Arabia",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "SN",
+    "Name": "Senegal",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "RS",
+    "Name": "Serbia",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "SC",
+    "Name": "Seychelles",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "SL",
+    "Name": "Sierra Leone",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "SG",
+    "Name": "Singapore",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "SX",
+    "Name": "Sint Maarten (Dutch part)",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "SK",
+    "Name": "Slovakia",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "SI",
+    "Name": "Slovenia",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "SB",
+    "Name": "Solomon Islands",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "SO",
+    "Name": "Somalia",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "ZA",
+    "Name": "South Africa",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "GS",
+    "Name": "South Georgia and the South Sandwich Islands",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "SS",
+    "Name": "South Sudan",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "ES",
+    "Name": "Spain",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "LK",
+    "Name": "Sri Lanka",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "SD",
+    "Name": "Sudan",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "SR",
+    "Name": "SuriName",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "SJ",
+    "Name": "Svalbard and Jan Mayen",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "SZ",
+    "Name": "Swaziland",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "SE",
+    "Name": "Sweden",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "CH",
+    "Name": "Switzerland",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "SY",
+    "Name": "Syrian Arab Republic",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "TW",
+    "Name": "Taiwan, Province of China",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "TJ",
+    "Name": "Tajikistan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "TZ",
+    "Name": "Tanzania, United Republic of",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "TH",
+    "Name": "Thailand",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "TL",
+    "Name": "Timor-Leste",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "TG",
+    "Name": "Togo",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "TK",
+    "Name": "Tokelau",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "TO",
+    "Name": "Tonga",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "TT",
+    "Name": "Trinidad and Tobago",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "TN",
+    "Name": "Tunisia",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "TR",
+    "Name": "Turkey",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "TM",
+    "Name": "Turkmenistan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "TC",
+    "Name": "Turks and Caicos Islands",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "TV",
+    "Name": "Tuvalu",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "UG",
+    "Name": "Uganda",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "UA",
+    "Name": "Ukraine",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "AE",
+    "Name": "United Arab Emirates",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "GB",
+    "Name": "United Kingdom of Great Britain and Northern Ireland",
+    "Region": "Europe"
+  },
+  {
+    "IsoCode": "US",
+    "Name": "United States of America",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "UM",
+    "Name": "United States Minor Outlying Islands",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "UY",
+    "Name": "Uruguay",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "UZ",
+    "Name": "Uzbekistan",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "VU",
+    "Name": "Vanuatu",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "VE",
+    "Name": "Venezuela (Bolivarian Republic of)",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "VN",
+    "Name": "Viet Nam",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "VG",
+    "Name": "Virgin Islands (British)",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "VI",
+    "Name": "Virgin Islands (U.S.)",
+    "Region": "Americas"
+  },
+  {
+    "IsoCode": "WF",
+    "Name": "Wallis and Futuna",
+    "Region": "Oceania"
+  },
+  {
+    "IsoCode": "EH",
+    "Name": "Western Sahara",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "YE",
+    "Name": "Yemen",
+    "Region": "Asia"
+  },
+  {
+    "IsoCode": "ZM",
+    "Name": "Zambia",
+    "Region": "Africa"
+  },
+  {
+    "IsoCode": "ZW",
+    "Name": "Zimbabwe",
+    "Region": "Africa"
+  }
+]

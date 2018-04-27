@@ -1,0 +1,40 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+tbody td{
+    padding: 10px;
+}
+
+thead th{
+    padding: 10px;
+    background-color: #6F6E6E;
+    color: #FFF;
+}
+
+tbody tr:nth-child(odd){
+    background-color: #ECECEC;
+    color: #000;
+}
+
+.tableContainer {
+    width: 700px;
+}
+
+.namecol {
+    width: 400px;
+}
